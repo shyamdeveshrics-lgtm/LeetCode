@@ -5,4 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
