@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
