@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
