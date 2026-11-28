@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/shyamdeveshrics-lgtm/LeetCode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
